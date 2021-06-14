@@ -2,7 +2,7 @@
 
 This is a list of http requests with http-headers.
 
-Just to remind that you can allocate these request both in `componentDidMount()` for class based component or `UseEffect()` function based component. 
+:suspect: Just to remind that you can allocate these request both in `componentDidMount()` for class based component or `UseEffect()` function based component. 
 ### React with Fetch and Axios:
 
 :arrow_forward: GET + Fetch
